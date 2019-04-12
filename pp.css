@@ -1,0 +1,115 @@
+.menu {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.menu .menu-header {
+  color: black;
+  font-size: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.menu .menu-header span {
+  color: #5ae972;
+}
+
+.menu .menu-header li {
+  padding: 20px;
+  margin: 20px;
+}
+
+.homepage {
+  width: 55rem;
+  margin-left: 0;
+  margin-top: 2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 1rem;
+}
+
+.homepage .personal-introduction {
+  background-color: #5ae972;
+  /* Green */
+  color: #ffffff;
+  width: 100%;
+  margin: 0;
+  padding-bottom: 15px;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+}
+
+.homepage .personal-introduction h1 {
+  padding: 10px;
+  margin-top: 4rem;
+}
+
+.homepage .personal-introduction .sub-title {
+  margin: 4px;
+  font-size: 1.5rem;
+}
+
+.homepage .personal-introduction .social-link {
+  padding: 20px 40px;
+  margin: 10px;
+  font-size: 1.5rem;
+  color: white;
+  display: inline;
+}
+
+.homepage .personal-info {
+  width: 100%;
+  color: black;
+  height: 18rem;
+  padding-left: 2rem;
+  padding-top: 2rem;
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+.homepage .personal-info .aboutme span {
+  color: #5ae972;
+}
+
+.homepage .personal-info .info-list {
+  padding-top: 2rem;
+  list-style-type: none;
+}
+
+.homepage .personal-info .info-list li span:first-child {
+  color: blue;
+  padding-right: auto;
+}
+
+.homepage .personal-info .info-list li span:last-child {
+  color: gray;
+  padding-left: 2rem;
+}
+
+.homepage .personal-introduction .personal-photo {
+  position: relative;
+  height: 16rem;
+}
+
+.homepage .personal-introduction .personal-photo img {
+  position: absolute;
+  top: 4.5rem;
+  left: 4rem;
+  width: 14rem;
+  height: 14rem;
+}
+
+.main {
+  width: 56rem;
+  padding: 0.5rem;
+}
+
+.main .pprofiles-footers {
+  padding-top: 1rem;
+}
+
+.main .pprofiles-footers h3 {
+  font-size: 1rem;
+}
+
+.main .pprofiles-footers p {
+  position: float;
+}
